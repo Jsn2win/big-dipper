@@ -17,7 +17,7 @@
     "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "bech32": "^1.1.4",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "bootswatch": "^4.6.0",
     "chart.js": "^2.9.4",
     "cheerio": "^1.0.0-rc.6",
